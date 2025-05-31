@@ -28,8 +28,7 @@ Imports:
     htmltools,
     magrittr,
     zip,
-    ggplot2#,
-    #b64
+    ggplot2
 RoxygenNote: 7.3.0
 Suggests: 
     knitr,
